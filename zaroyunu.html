@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <script src="zaroyunu.js" defer></script>
+    <title>Zar Yarışı</title>
+</head>
+<body>
+    <h1 class="h1">ZAR ATMA YARIŞINA HOŞGELDİNİZ! ŞANSLI OLAN KAZANSIN.. :))</h1>
+    <style>
+        .h1{
+            font-size: 50px;
+            text-align: center;
+            color: yellow;
+        }
+        .h2{
+            text-align: center;
+            color: aqua;
+        }
+         body {
+     background-image: url(müzik.jpg);
+ }
+
+  #skorKapsayici {
+      display: inline-block;
+      height: auto;
+      width: auto;
+      background-color: rosybrown;
+      box-shadow: 5px 5px gainsboro;
+  }
+
+  #skorKapsayici div {
+      width: 200px;
+      height: 250px;
+      float: left;
+      margin: 25px;
+  }
+
+  #skorbir {
+      background-color: blue;
+  }
+
+  #skoriki {
+      background-color: red;
+  }
+
+   div span:nth-child(1){
+      font-family: Verdana, serif;
+      font-size: 18px;
+      text-decoration: underline;
+      font-weight: bold;
+  }
+
+  #skorKapsayici div span:nth-child(4){
+      font-family: Verdana, serif;
+      font-size: 48px;
+      font-weight: bold;
+      display: block;
+      margin-top: 75px;
+  }
+
+  #oyunalani {
+      display: flex;
+      justify-content: space-around;
+      height: auto;
+      width: auto;
+      margin-top: 100px;
+  }
+
+  #oyunalani div {
+      width: 250px;
+      height: 350px;
+      text-align: center;
+  }
+
+  #oyuncubir {
+      background-color:blue;
+  }
+
+  #oyuncuiki {
+     background-color: red;
+  }
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+button {
+    width: 100%;
+    height: 50px;
+    background-color: yellow;
+    color: orange;
+    border-radius: 10px;
+    font-size: 18px;
+    font-family: Verdana, serif;
+    outline: none;
+}
+    </style>
+
+<div style="text-align: center;">
+    <div id="skorKapsayici">
+        <div id="skorbir">
+            <span>Birinci Oyuncu</span>
+            <br> <br>
+            <span>0</span>
+        </div>
+
+            <div id="skoriki">
+                <span>İkinci Oyuncu</span>
+                <br> <br>
+                <span>0</span>
+            </div>
+
+    </div>
+</div>
+<div id="oyunalani">
+    <div id="oyuncubir">
+        <span>Birinci Oyuncu</span>
+        <br> <br>
+        <img src="zar2.jpg">
+        <br> <br>
+        <button onclick="salla(1)">Salla</button>
+        <br> <br>
+        <button onclick="at()"> At</button>
+    </div>
+
+    <div id="oyuncuiki">
+        <span>İkinci Oyuncu</span>
+        <br> <br>
+        <img src="zar1.webp">
+        <br> <br>
+        <button onclick="salla(2)">Salla</button>
+        <br> <br>
+        <button onclick="at()"> At</button>
+    </div>
+</div>
+
+<div>
+
+</div>
+<footer>
+    <h2 class="h2">10 HAKKINIZ VAR! KAYBEDEN AĞLAMASIN :))</h2>
+</footer>
+
+
+
+</body>
+</html>
