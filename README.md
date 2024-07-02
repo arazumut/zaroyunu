@@ -14,3 +14,8 @@
 ![Ekran görüntüsü 2024-07-02 112114](https://github.com/arazumut/zaroyunuAndKapsamliWebProjects/assets/150933483/95d7ad28-d8d9-4530-a73b-83bafd1265a1)
 ![Ekran görüntüsü 2024-07-02 112204](https://github.com/arazumut/zaroyunuAndKapsamliWebProjects/assets/150933483/14739c2d-8e02-4141-90ac-dd3ab756e0a9)
 ![Ekran görüntüsü 2024-07-02 112150](https://github.com/arazumut/zaroyunuAndKapsamliWebProjects/assets/150933483/bd15da12-820e-4cde-924f-1fa10a3f172b)
+
+<h1>Geleneksel responsive tasarımlı yemek tarifi web tasarımı</h1>
+
+![Ekran görüntüsü 2024-07-02 111309](https://github.com/arazumut/zaroyunuAndKapsamliWebProjects/assets/150933483/985afc96-afcf-449f-b7e3-536b6dc8fc93)
+![Ekran görüntüsü 2024-07-02 111257](https://github.com/arazumut/zaroyunuAndKapsamliWebProjects/assets/150933483/2412fdee-1c8a-4c69-b433-e5495364ef87)
